@@ -1,0 +1,24 @@
+# Flutter Workspace
+
+This repository contains Flutter projects and resources for development and learning.
+
+## Main Project Folder
+
+### flutter-main
+
+This folder includes the main Flutter application and related files. See `flutter-main/README.md` for specific details about the project setup and usage.
+
+## Getting Started
+
+To start working with the main Flutter project:
+
+1. Navigate to the `flutter-main` directory.
+2. Follow the instructions in `flutter-main/README.md`.
+
+## Structure
+
+- `flutter-main/` - Main Flutter project and source code
+- `.git/` - Git repository data
+- `Readme` - Workspace overview
+
+For more information, refer to the documentation in each project folder.
